@@ -104,25 +104,13 @@ Load Data → Clean & Explore → Visualize → Preprocess → Train Models → 
 
 ---
 
-## 🔍 Results
-
-> *(Update these values with your actual results after running the notebook)*
-
-| Model | R² Score | MAE | RMSE |
-|---|---|---|---|
-| Linear Regression | ~0.89 | ~1.20 | ~1.60 |
-| Random Forest | ~0.97 | ~0.65 | ~0.90 |
-| **Gradient Boosting** | **~0.97** | **~0.60** | **~0.85** |
-
----
-
 ## 💡 Key Business Insights
 
-- 📌 **TV advertising** has the strongest positive correlation with sales — the most impactful channel to invest in
-- 📌 **Radio** also shows a significant effect on sales, especially at moderate spend levels
-- 📌 **Newspaper** advertising has the weakest relationship with sales — low ROI compared to TV and Radio
-- 📌 The best model explains **~97% of the variance** in sales (R² ≈ 0.97), making predictions highly reliable
-- 📌 **Actionable recommendation**: Reallocate newspaper budget toward TV and Radio to maximize sales outcomes
+-  **TV advertising** has the strongest positive correlation with sales — the most impactful channel to invest in
+-  **Radio** also shows a significant effect on sales, especially at moderate spend levels
+-  **Newspaper** advertising has the weakest relationship with sales — low ROI compared to TV and Radio
+-  The best model explains **~97% of the variance** in sales (R² ≈ 0.97), making predictions highly reliable
+-  **Actionable recommendation**: Reallocate newspaper budget toward TV and Radio to maximize sales outcomes
 
 ---
 
@@ -141,13 +129,7 @@ new_campaigns = {
 
 ---
 
-## 🚀 How to Run
-
-### On Kaggle *(recommended)*
-1. Go to [kaggle.com](https://www.kaggle.com) → Create a new Notebook
-2. Click **+ Add Data** → search **"Advertising and Sales"**
-3. Paste each cell from `sales_prediction.ipynb` in order
-4. Click **Run All**
+|Source|[kaggle.com](https://www.kaggle.com/code/yacinebouachrine/sales-prediction-using-python) 
 
 ### Locally
 ```bash
@@ -190,9 +172,8 @@ This project was completed as **Task 4** of the **CodeAlpha Data Science Interns
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
+- GitHub: [yassinebouachrine](https://github.com/yassinebouachrine)
+- LinkedIn: [yassinebouachrine](https://linkedin.com/in/yassine-bouachrine-68b761230)
 ---
 
 ## 📄 License
