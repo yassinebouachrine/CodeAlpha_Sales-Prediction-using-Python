@@ -37,7 +37,7 @@ CodeAlpha_SalesPrediction/
 | Detail | Info |
 |---|---|
 | Name | Advertising and Sales |
-| Source | [Kaggle — Advertising Dataset](https://www.kaggle.com/code/yacinebouachrine/sales-prediction-using-python?select=Advertising.csv) |
+| Source | [Kaggle — Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv) |
 | Rows | 200 records |
 | Target | Sales (in thousands of units) |
 
