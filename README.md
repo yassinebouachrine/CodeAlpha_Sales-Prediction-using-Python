@@ -37,7 +37,7 @@ CodeAlpha_SalesPrediction/
 | Detail | Info |
 |---|---|
 | Name | Advertising and Sales |
-| Source | [Kaggle — Advertising Dataset](https://www.kaggle.com/datasets/ashydv/advertising-dataset) |
+| Source | [Kaggle — Advertising Dataset](https://www.kaggle.com/code/yacinebouachrine/sales-prediction-using-python?select=Advertising.csv) |
 | Rows | 200 records |
 | Target | Sales (in thousands of units) |
 
@@ -129,7 +129,7 @@ new_campaigns = {
 
 ---
 
-|Source|[kaggle.com](https://www.kaggle.com/code/yacinebouachrine/sales-prediction-using-python) 
+| Source | [kaggle.com](https://www.kaggle.com/code/yacinebouachrine/sales-prediction-using-python) |
 
 ### Locally
 ```bash
